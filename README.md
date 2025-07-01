@@ -9,7 +9,10 @@ This project is an interactive data visualization dashboard built with Streamlit
 
 🚀 Features
 ✅ Visualize data for individual states or entire India
+
 ✅ Interactive bubble map with zoom, hover, and tooltip support
+
 ✅ Choose primary and secondary parameters
+
 ✅ Sidebar controls for a clean and interactive UI
 
