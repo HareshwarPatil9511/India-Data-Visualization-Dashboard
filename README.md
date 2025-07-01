@@ -7,7 +7,8 @@ This project is an interactive data visualization dashboard built with Streamlit
 
 * Map = Powered by Mapbox & Plotly
 
-🚀 Features
+🚀 Features:
+
 ✅ Visualize data for individual states or entire India
 
 ✅ Interactive bubble map with zoom, hover, and tooltip support
