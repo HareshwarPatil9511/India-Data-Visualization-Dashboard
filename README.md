@@ -1,4 +1,5 @@
 🇮🇳 India District Data Visualization using Streamlit & Plotly
+
 This project is an interactive data visualization dashboard built with Streamlit and Plotly. It allows users to explore district-level data across India by plotting different metrics on a geographic map.
 
 * Bubble size = Primary parameter (e.g., Population, Literacy Rate)
